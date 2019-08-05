@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 - Remove MobileSecurityServicePodCount since it was considered duplicated [#157](https://github.com/aerogear/mobile-security-service-operator/pull/157)
+- Upgrade version of operator-sdk from 0.8.1 to 0.9.0 [#162](https://github.com/aerogear/mobile-security-service-operator/pull/162)
 
 ## [0.3.0] - 2019-07-26
 - Fixed Prometheus Rules for MobileSecurityServicePodCount and MobileSecurityServiceDown [#151](https://github.com/aerogear/mobile-security-service-operator/pull/151)
