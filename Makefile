@@ -179,7 +179,7 @@ setup/githooks:
 
 .PHONY: setup
 setup: setup/githooks
-	dep ensure
+	go build cmd/manager/main.go
 	make code/gen
 
 .PHONY: code/run/local
